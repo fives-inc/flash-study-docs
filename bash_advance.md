@@ -4,7 +4,7 @@ description: "Bash スクリプトの応用問題です"
 date: 2023-05-14T01:00:00Z
 image: /images/post/post-1.png
 categories: ["bash"]
-featured: false
+featured: true
 draft: false
 ---
 
