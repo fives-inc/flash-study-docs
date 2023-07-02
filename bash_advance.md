@@ -1,7 +1,7 @@
 ---
 title: "Bash応用"
 description: "Bash スクリプトの応用問題です"
-date: 2023-05-14T01:00:00Z
+date: 2023-06-28T01:00:00Z
 image: /images/post/post-1.png
 categories: ["bash"]
 featured: true
