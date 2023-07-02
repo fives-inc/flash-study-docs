@@ -5,6 +5,7 @@ date: 2023-05-14T01:00:00Z
 image: /images/post/post-1.png
 categories: ["bash"]
 featured: true
+syntax: false
 draft: false
 ---
 
