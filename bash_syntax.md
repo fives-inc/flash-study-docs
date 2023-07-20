@@ -2,7 +2,7 @@
 title: "Bash基本文法"
 description: "Bash スクリプトの基本文法です"
 date: 2023-06-28T01:00:00Z
-image: /images/post/post-1.png
+image: /images/post/bash-syntax.png
 categories: ["bash"]
 featured: true
 syntax: true

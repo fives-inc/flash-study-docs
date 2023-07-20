@@ -2,7 +2,7 @@
 title: "Bash基礎"
 description: "Bash スクリプトの基本問題です"
 date: 2023-06-29T01:00:00Z
-image: /images/post/post-1.png
+image: /images/post/bash-basic.png
 categories: ["bash"]
 featured: true
 syntax: false
